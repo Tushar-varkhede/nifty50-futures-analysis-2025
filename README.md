@@ -58,8 +58,3 @@ This project analyzes NIFTY 50 index futures across the 2025 calendar year, focu
 
 This project is prepared for educational, analytical, and portfolio purposes only. The analysis is not investment advice, a trading recommendation, or a guarantee of future market performance.
 
-## Author
-
-**Tushar Narendra Varkhede**
-
-Skills: Financial Analysis | Microsoft Excel | Equity Derivatives | Capital Markets | Data Analytics
