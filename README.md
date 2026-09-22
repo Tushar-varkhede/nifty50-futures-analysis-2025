@@ -1,4 +1,5 @@
 # NIFTY 50 Futures Market Analysis
+**Prepared by:** Tushar Narendra Varkhede
 
 ## Market Activity, Basis Behaviour & Open Interest Analysis of NIFTY 50 Index Futures
 
